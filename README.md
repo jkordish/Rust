@@ -1,4 +1,4 @@
 Rust
 ====
 
-Random Rust Programs
+Random Rust Programs for learning.
